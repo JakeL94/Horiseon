@@ -9,7 +9,7 @@ A website that offers social media marketing advice.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://jakel94.github.io/Horiseon/
 
 ## Contribution
 Made with ❤️ by Jake Lee
